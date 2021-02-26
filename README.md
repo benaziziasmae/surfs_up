@@ -20,6 +20,8 @@ In this deliverable, we filtered the date the date column of the Measurements ta
 
 June results showed as the following:
 
+![june_temperature_statistics](/Resources/june_temperature_statistics.PNG)
+
 
 ### Deliverable 2
 
@@ -29,7 +31,7 @@ In this deliverable, we filtered the date the date column of the Measurements ta
 
 December results showed as the following:
 
-
+![December_temperature_statistics](/Resources/December_temperature_statistics.PNG)
 
 
 
