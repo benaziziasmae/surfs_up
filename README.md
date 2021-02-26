@@ -5,6 +5,6 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ## Resources:
 
-- Data : [surfs_up](/surfs_up/hawaii.sqlite)
+- Data : [hawaii](/surfs_up/hawaii.sqlite)
 - Software : Python (jupyter notebook, pandas, matplotlib), VS CODE, SQLAlchemy (ORM queries), Flask.
 
